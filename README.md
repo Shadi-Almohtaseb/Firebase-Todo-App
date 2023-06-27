@@ -16,7 +16,13 @@ in this project, I used Firebase authentication for registering users and Fireba
 ## App Preview
 
 ![](images/firebaseApp1.png)
+
+
 ![](images/firebaseApp2.png)
+
+
 ![](images/firebaseApp3.png)
+
+
 ![](images/firebaseApp4.png)
 
