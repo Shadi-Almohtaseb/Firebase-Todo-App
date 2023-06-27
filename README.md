@@ -11,7 +11,8 @@ in this project, I used Firebase authentication for registering users and Fireba
 
 ## App Preview
 
-![](src/images/firebaseApp1.png)
-![](src/images/firebaseApp2.png)
-![](src/images/firebaseApp3.png)
-![](src/images/firebaseApp4.png)
+![](images/firebaseApp1.png)
+![](images/firebaseApp2.png)
+![](images/firebaseApp3.png)
+![](images/firebaseApp4.png)
+
